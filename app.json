@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "lahiya-md",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -11,9 +11,9 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {cyber-x@;;;9cMmyJxJ#fRFqtw26QFew9jItK29RKt8dBBlBtxEOcMsE9jVwEaI
             "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
+            "required": ,
             "value": ""
         },
         "HEROKU_API_KEY": {
