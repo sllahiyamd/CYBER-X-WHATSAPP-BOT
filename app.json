@@ -11,7 +11,7 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {cyber-x@;;;9cMmyJxJ#fRFqtw26QFew9jItK29RKt8dBBlBtxEOcMsE9jVwEaI
+        "SESSION_ID":cyber-x@;;;RM0USQiL#Vc_NxCUiPSRBK8l7jH1C0TvNh7NfXhJPM48XFIZZ0gA
             "description": "Type the Session-ID you got from scaning QR",
             "required": ,
             "value": ""
